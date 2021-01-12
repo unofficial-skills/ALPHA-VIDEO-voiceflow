@@ -12,6 +12,7 @@ Its a youtube skill for alexa built using the voiceflow platform. The skill is c
 
 They are coming soon.
 
+When completed they will be ready at https://docs.youtube-diy.andrewstech.me/
 
 
 -------------------------------------------------------------------------------------
@@ -19,4 +20,4 @@ They are coming soon.
 
 [![Discord](https://img.shields.io/discord/735427271267188758)](https://discord.me/andrewstech-discord)
 
-Page last updated 11th of january 2020 at 10:54
+Page last updated 12th of january 2020 at 09:26
