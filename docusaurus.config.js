@@ -1,16 +1,21 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'DIY-youtube-for-alexa',
+  tagline: 'Youtube on Alexa',
+  url: 'https://docs.youtube-diy.andrewstech.me',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'unofficial-skills', // Usually your GitHub org/user name.
+  projectName: 'DIY-youtube-for-alexa', // Usually your repo name.
   themeConfig: {
+    gtag: {
+      trackingID: 'G-GBCRXFKRY8',
+      // Optional fields.
+      anonymizeIP: false, // Should IPs be anonymized?
+      },
     navbar: {
-      title: 'My Site',
+      title: 'Youtube-For-Alexa',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -24,7 +29,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/unofficial-skills/DIY-youtube-for-alexa',
           label: 'GitHub',
           position: 'right',
         },
@@ -50,16 +55,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Main website',
+              href: 'https://andrewstech.me',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/WAu8ApjwG2',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/andrewstech1',
             },
           ],
         },
@@ -72,12 +77,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/unofficial-skills/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} youtube-Diy,  Built with Docusaurus and hosted on Github.`,
     },
   },
   presets: [
@@ -88,13 +93,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/unofficial-skills/DIY-youtube-for-alexa/edit/documentation',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/unofficial-skills/DIY-youtube-for-alexa/edit/documentation/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
