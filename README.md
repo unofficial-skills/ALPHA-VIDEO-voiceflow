@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/2000293/Diy%20alexa/_apis/build/status/unofficial-skills.DIY-youtube-for-alexa?branchName=documentation)](https://dev.azure.com/2000293/Diy%20alexa/_build/latest?definitionId=1&branchName=documentation)
 ## Welcome To Diy Youtube For Alexa
 
 [![HitCount](http://hits.dwyl.com/unofficial-skills/DIY-youtube-for-alexa.svg)](http://hits.dwyl.com/unofficial-skills/DIY-youtube-for-alexa)
