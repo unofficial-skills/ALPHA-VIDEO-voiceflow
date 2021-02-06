@@ -1,7 +1,7 @@
 module.exports = {
   title: 'DIY-youtube-for-alexa',
   tagline: 'Youtube on Alexa',
-  url: 'https://docs.youtube-diy.andrewstech.me',
+  url: 'https://youtube.diy.andrewstech.me',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
