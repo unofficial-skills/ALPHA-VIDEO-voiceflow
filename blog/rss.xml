@@ -14,12 +14,5 @@
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
         </item>
-        <item>
-            <title><![CDATA[Hello]]></title>
-            <link>https://youtube.diy.andrewstech.me/blog/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
-        </item>
     </channel>
 </rss>
