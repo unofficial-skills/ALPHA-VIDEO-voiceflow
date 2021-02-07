@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youtube.diy.andrewstech.me/blog</id>
     <title>DIY-youtube-for-alexa Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <updated>2021-02-07T21:06:08.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youtube.diy.andrewstech.me/blog"/>
     <subtitle>DIY-youtube-for-alexa Blog</subtitle>
     <icon>https://youtube.diy.andrewstech.me/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://youtube.diy.andrewstech.me/blog/welcome"/>
-        <updated>2019-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
+        <title type="html"><![CDATA[Hello]]></title>
+        <id>Hello</id>
+        <link href="https://youtube.diy.andrewstech.me/blog/Hello"/>
+        <updated>2021-02-07T21:06:08.208Z</updated>
+        <summary type="html"><![CDATA[The diy youtube alexa skill is coming soon.]]></summary>
     </entry>
 </feed>
