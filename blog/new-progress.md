@@ -10,4 +10,4 @@ tags: [hello, youtube]
 
 I am starting to work on the documentation for the new skill. As you may have noticed new pages are starting to appear some contain parts of the tutoiral and others are currently blank.
 If you are wondering why this project has taken a long time, its because I am a still a full time student. I have been simplifying this project as much as possible to make it easier to build. 
-I hope to post an update in the next week or so.
+I hope to post an update in the next week or so!
