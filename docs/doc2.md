@@ -1,7 +1,7 @@
 ---
 id: doc2
-title: YouTube-Api
-sidebar_label: YouTube-Api
+title: YouTube-Dl-Api
+sidebar_label: YouTube-Dl-Api
 ---
 
 To start with we need to install the Youtube-Dl-APi. This grabbs the direct streaming url of a youtube video. We will be installing this onto our heroku account. Make sure you have a heroku account you can create an account [here](https://signup.heroku.com/).  You can setup Youtube dl automaticly by using the deploy button bellow.
