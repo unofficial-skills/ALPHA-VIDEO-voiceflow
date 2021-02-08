@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youtube.diy.andrewstech.me/blog</id>
     <title>DIY-youtube-for-alexa Blog</title>
-    <updated>2021-02-08T21:45:13.423Z</updated>
+    <updated>2021-02-08T21:48:39.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youtube.diy.andrewstech.me/blog"/>
     <subtitle>DIY-youtube-for-alexa Blog</subtitle>
@@ -11,14 +11,14 @@
         <title type="html"><![CDATA[Hello]]></title>
         <id>Hello</id>
         <link href="https://youtube.diy.andrewstech.me/blog/Hello"/>
-        <updated>2021-02-08T21:45:13.423Z</updated>
+        <updated>2021-02-08T21:48:39.547Z</updated>
         <summary type="html"><![CDATA[The diy youtube alexa skill is coming soon.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[New progress]]></title>
         <id>progress</id>
         <link href="https://youtube.diy.andrewstech.me/blog/progress"/>
-        <updated>2021-02-08T21:45:13.423Z</updated>
+        <updated>2021-02-08T21:48:39.547Z</updated>
         <summary type="html"><![CDATA[I am starting to work on the documentation for the new skill. As you may have noticed new pages are starting to appear some contain parts of the tutoiral and others are currently blank.]]></summary>
     </entry>
 </feed>
