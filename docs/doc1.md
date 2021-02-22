@@ -9,7 +9,7 @@ slug: /
 
 :::warning
 
-The Instructions are not yet complete.
+The Instuctions are not yet complete.
 
 :::
 
