@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'DIY-youtube-for-alexa',
+  title: 'ALPHA VIDEO',
   tagline: 'Youtube on Alexa',
   url: 'https://youtube.diy.andrewstech.me',
   baseUrl: '/',
