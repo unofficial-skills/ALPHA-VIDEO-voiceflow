@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youtube.diy.andrewstech.me/blog</id>
     <title>ALPHA VIDEO Blog</title>
-    <updated>2021-02-28T17:41:03.378Z</updated>
+    <updated>2021-02-28T17:44:14.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youtube.diy.andrewstech.me/blog"/>
     <subtitle>ALPHA VIDEO Blog</subtitle>
@@ -11,21 +11,28 @@
         <title type="html"><![CDATA[Hello]]></title>
         <id>Hello</id>
         <link href="https://youtube.diy.andrewstech.me/blog/Hello"/>
-        <updated>2021-02-28T17:41:03.378Z</updated>
+        <updated>2021-02-28T17:44:14.833Z</updated>
         <summary type="html"><![CDATA[The diy youtube alexa skill is coming soon.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live]]></title>
+        <id>Live</id>
+        <link href="https://youtube.diy.andrewstech.me/blog/Live"/>
+        <updated>2021-02-28T17:44:14.833Z</updated>
+        <summary type="html"><![CDATA[The skill is now Live and you can set it up and use it for yourself.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[New progress]]></title>
         <id>progress</id>
         <link href="https://youtube.diy.andrewstech.me/blog/progress"/>
-        <updated>2021-02-28T17:41:03.378Z</updated>
+        <updated>2021-02-28T17:44:14.833Z</updated>
         <summary type="html"><![CDATA[I am starting to work on the documentation for the new skill. As you may have noticed new pages are starting to appear some contain parts of the tutoiral and others are currently blank.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[VF2]]></title>
         <id>vf2</id>
         <link href="https://youtube.diy.andrewstech.me/blog/vf2"/>
-        <updated>2021-02-28T17:41:03.378Z</updated>
+        <updated>2021-02-28T17:44:14.833Z</updated>
         <summary type="html"><![CDATA[Hello so you have probably been wondering on why the project has been on hold for the past 2 weeks. Voiceflow recently announced VF2, the new release of voiceflow.]]></summary>
     </entry>
 </feed>
