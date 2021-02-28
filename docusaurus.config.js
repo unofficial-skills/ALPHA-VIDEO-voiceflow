@@ -7,7 +7,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'unofficial-skills', // Usually your GitHub org/user name.
-  projectName: 'DIY-youtube-for-alexa', // Usually your repo name.
+  projectName: 'ALPHA-VIDEO-2021', // Usually your repo name.
   themeConfig: {
     gtag: {
       trackingID: 'G-GBCRXFKRY8',
@@ -15,7 +15,7 @@ module.exports = {
       anonymizeIP: false, // Should IPs be anonymized?
       },
     navbar: {
-      title: 'Youtube-For-Alexa',
+      title: 'ALPHA-VIDEO',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -29,7 +29,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/unofficial-skills/DIY-youtube-for-alexa',
+          href: 'https://github.com/unofficial-skills/ALPHA-VIDEO-2021',
           label: 'GitHub',
           position: 'right',
         },
@@ -93,13 +93,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/unofficial-skills/DIY-youtube-for-alexa/edit/documentation',
+            'https://github.com/unofficial-skills/ALPHA-VIDEO-2021/edit/documentation',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/unofficial-skills/DIY-youtube-for-alexa/edit/documentation/',
+            'https://github.com/unofficial-skills/ALPHA-VIDEO-2021/edit/documentation/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
