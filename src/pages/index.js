@@ -26,12 +26,11 @@ const features = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Voiceflow',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Drag and drop alexa skill builder.
       </>
     ),
   },
