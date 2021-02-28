@@ -1,12 +1,12 @@
 [![Build Status](https://dev.azure.com/andrewstech-youtube/youtube%20alexa/_apis/build/status/unofficial-skills.DIY-youtube-for-alexa?branchName=documentation)](https://dev.azure.com/andrewstech-youtube/youtube%20alexa/_build/latest?definitionId=1&branchName=documentation)
 
-## Welcome To Diy Youtube For Alexa !
+## Welcome To ALPHA VIDEO !
 
-[![HitCount](http://hits.dwyl.com/unofficial-skills/DIY-youtube-for-alexa.svg)](http://hits.dwyl.com/unofficial-skills/DIY-youtube-for-alexa)
 
-# What is DIY youtube for alexa
 
-Its a youtube skill for alexa built using the voiceflow platform. The skill is constructed by you as we no longer have the sharing functionality.
+# What is ALPHA VIDEO
+
+Its a youtube skill for alexa built using the voiceflow platform. 
 
 -------------------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ When completed they will be ready at https://youtube.diy.andrewstech.me/
 
 [![Discord](https://img.shields.io/discord/735427271267188758)](https://discord.me/andrewstech-discord)
 
-Page last updated 12th of january 2020 at 09:26
+Page last updated 28th of February 2021 at 13:06
