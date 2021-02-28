@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/277-2770938_amazon-echo-show-echo-show-transparent-clipart.svg',
     description: (
       <>
         Youtube for Your Alexa device.
