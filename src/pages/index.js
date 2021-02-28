@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: 'Powered by Voiceflow',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/voiceflow.svg',
     description: (
       <>
         Drag and drop alexa skill builder.
