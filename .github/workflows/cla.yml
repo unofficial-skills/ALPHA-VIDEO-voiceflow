@@ -16,8 +16,8 @@ jobs:
           # the below token should have repo scope and must be manually added by you in the repository's secret
           PERSONAL_ACCESS_TOKEN : ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
-          path-to-signatures: 'signatures/version1/cla.json'
-          path-to-document: 'https://github.com/unofficial-skills/DIY-youtube-for-alexa/blob/main/LICENSE' # e.g. a CLA or a DCO document
+          path-to-signatures: 'edits/signatures/version1/cla.json'
+          path-to-document: 'https://youtube.diy.andrewstech.me/docs/edits' # e.g. a CLA or a DCO document
           # branch should not be protected
           branch: 'documentation'
           allowlist: user1,bot*
