@@ -1,6 +1,6 @@
 ---
 id: edits
-title: Edits
+title: CLA
 sidebar_label: Edits
 slug: /edits
 ---
