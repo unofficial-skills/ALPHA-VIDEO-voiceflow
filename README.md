@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/andrewstech-youtube/youtube%20alexa/_apis/build/status/unofficial-skills.DIY-youtube-for-alexa?branchName=documentation)](https://dev.azure.com/andrewstech-youtube/youtube%20alexa/_build/latest?definitionId=1&branchName=documentation)
+[![Build Status](https://dev.azure.com/andrewstech-youtube/alpha-video/_apis/build/status/unofficial-skills.ALPHA-VIDEO-2021?branchName=documentation)](https://dev.azure.com/andrewstech-youtube/alpha-video/_build/latest?definitionId=2&branchName=documentation)
 
 ## Welcome To ALPHA VIDEO !
 
