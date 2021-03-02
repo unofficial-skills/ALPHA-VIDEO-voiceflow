@@ -4,35 +4,35 @@
         <title>ALPHA VIDEO Blog</title>
         <link>https://youtube.diy.andrewstech.me/blog</link>
         <description>ALPHA VIDEO Blog</description>
-        <lastBuildDate>Tue, 02 Mar 2021 20:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 22:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Hello]]></title>
             <link>https://youtube.diy.andrewstech.me/blog/Hello</link>
             <guid>Hello</guid>
-            <pubDate>Tue, 02 Mar 2021 20:52:21 GMT</pubDate>
+            <pubDate>Tue, 02 Mar 2021 22:29:40 GMT</pubDate>
             <description><![CDATA[The diy youtube alexa skill is coming soon.]]></description>
         </item>
         <item>
             <title><![CDATA[Live]]></title>
             <link>https://youtube.diy.andrewstech.me/blog/Live</link>
             <guid>Live</guid>
-            <pubDate>Tue, 02 Mar 2021 20:52:21 GMT</pubDate>
+            <pubDate>Tue, 02 Mar 2021 22:29:40 GMT</pubDate>
             <description><![CDATA[The skill is now Live and you can set it up and use it for yourself.]]></description>
         </item>
         <item>
             <title><![CDATA[New progress]]></title>
             <link>https://youtube.diy.andrewstech.me/blog/progress</link>
             <guid>progress</guid>
-            <pubDate>Tue, 02 Mar 2021 20:52:21 GMT</pubDate>
+            <pubDate>Tue, 02 Mar 2021 22:29:40 GMT</pubDate>
             <description><![CDATA[I am starting to work on the documentation for the new skill. As you may have noticed new pages are starting to appear some contain parts of the tutoiral and others are currently blank.]]></description>
         </item>
         <item>
             <title><![CDATA[VF2]]></title>
             <link>https://youtube.diy.andrewstech.me/blog/vf2</link>
             <guid>vf2</guid>
-            <pubDate>Tue, 02 Mar 2021 20:52:21 GMT</pubDate>
+            <pubDate>Tue, 02 Mar 2021 22:29:40 GMT</pubDate>
             <description><![CDATA[Hello so you have probably been wondering on why the project has been on hold for the past 2 weeks. Voiceflow recently announced VF2, the new release of voiceflow.]]></description>
         </item>
     </channel>
