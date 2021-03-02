@@ -5,14 +5,14 @@ sidebar_label: plugins
 slug: /plugins
 ---
 
-### Plugins
+### Google Assistant 
 
-The skill will support plugins in the future.  
+Currently in tbe works but will allow you to use Google assistant on your alexa device.
 
-# Plugins lined up
+### Dropbox
 
-Google Assistant support for alexa.
+Cooming Soon will allow the streaming of your own mp3 music.
 
-# DropBox 
+### Google Drive
 
-DropBox music support is planned.
+Cooming soon will allow streaming of mp3 music from your drive account to your echo.
