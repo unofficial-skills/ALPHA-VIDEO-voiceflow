@@ -8,6 +8,9 @@ slug: /
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/andrewstech/service-status/master/api/diy-youtube-for-alexa/uptime.json)
 
 
+:::warning 
+In the current state the skill is very buggy.
+:::
 
 What is Youtube for Alexa DIY? A skill to stream audio from Youtube to Your Alexa.
 
