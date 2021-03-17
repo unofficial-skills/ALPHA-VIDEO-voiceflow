@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'ALPHA VIDEO',
-  tagline: 'Youtube on Alexa',
+  title: 'ALPHA VIDEO - Voiceflow Edition',
+  tagline: 'Youtube on Alexa - Voiceflow Edition',
   url: 'https://youtube.diy.andrewstech.me',
   baseUrl: '/',
   onBrokenLinks: 'throw',
