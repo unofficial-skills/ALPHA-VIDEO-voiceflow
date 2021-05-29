@@ -1,4 +1,9 @@
-[![Build Status](https://dev.azure.com/andrewstech-youtube/alpha-video/_apis/build/status/unofficial-skills.ALPHA-VIDEO-2021?branchName=documentation)](https://dev.azure.com/andrewstech-youtube/alpha-video/_build/latest?definitionId=2&branchName=documentation)
+## ARCHIVED
+
+THIS VERSION HAS BEEN ARCHIVED. PLEASE VISIT THE NEW VERSION AT https://alpha-video.andrewstech.me
+
+
+-----------------
 
 ## Welcome To ALPHA VIDEO !
 
