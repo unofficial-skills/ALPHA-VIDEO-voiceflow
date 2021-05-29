@@ -9,7 +9,7 @@ slug: /
 
 
 :::warning 
-In the current state the skill is very buggy. It is not recomended for current use.
+THIS SKILL HASS BEEEN ARCHIVED. NO SUPPORT WILL BE PROVIDED.
 :::
 
 What is Youtube for Alexa DIY? A skill to stream audio from Youtube to Your Alexa.
